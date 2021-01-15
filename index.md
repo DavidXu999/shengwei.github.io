@@ -6,4 +6,4 @@ My research interest lies in the intersection of computer science and economics:
 
 I am currently applying for PhD (21Fall).
 
-** contact: shengwei.xu [at] pku [dot] edu [dot] cn **
+**contact: shengwei.xu [at] pku [dot] edu [dot] cn**
